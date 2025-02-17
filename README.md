@@ -9,6 +9,7 @@ This repository contains multiple Spring-based projects showcasing different asp
 - **Employee Management System**: A project for managing employee data with features like role-based access and CRUD operations.
 - **User Management**: Handling user authentication, registration, and profile management with security features.
 
+![ecommerce1](img/image1.png)
 ## Tech Stack
 
 This repository leverages a robust stack of technologies to build secure and efficient applications:
@@ -32,6 +33,7 @@ This repository leverages a robust stack of technologies to build secure and eff
   - **Thymeleaf**: A modern server-side Java template engine used for rendering web pages.
 
 ## Features
+![ecommerce2](img/image1.png)
 
 - Secure user authentication and authorization with **Spring Security**.
 - Flexible and responsive **UI** built with **Bootstrap**.
