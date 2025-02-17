@@ -1,0 +1,64 @@
+# Ignore build directories
+/target/
+/build/
+
+/out/
+/.idea/
+/*.iml
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA project files
+/.idea/
+/*.iml
+
+# VSCode project files
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Spring-specific files
+/application.properties
+/application.yml
+
+# Maven / Gradle build files
+/.mvn/
+/target/
+/build/
+
+# Hibernate
+/*.hbm.xml
+hibernate.cfg.xml
+
+# Ignore temporary files created by IDEs
+*.swp
+*.swo
+*.bak
+
+# Ignore Java class files
+*.class
+
+# Ignore compiled Java files
+*.jar
+*.war
+*.ear
+
+# Ignore local configuration files
+*.local
+*.env
+
+# Node modules if there’s any JS integration in the project
+/node_modules/
+
+# Ignore compiled configuration and cache
+/.idea/
+/*.iml
+/.gradle/

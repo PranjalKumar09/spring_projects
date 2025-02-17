@@ -1,7 +1,3 @@
-Sure! Here's a refined and professional version of your **README.md** for your GitHub repository:
-
----
-
 # Spring Projects
 
 This repository contains multiple Spring-based projects showcasing different aspects of Java-based development. From CRUD applications to more complex systems like **eCommerce** and **Employee Management**, these projects demonstrate best practices in backend development, frontend integration, and security implementation.
@@ -80,8 +76,6 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-This version of the README provides a clearer, well-structured description of your repository and the technologies involved. It also provides users with detailed setup instructions and a professional outline of the project. Let me know if you'd like to add anything else!# spring_projects
